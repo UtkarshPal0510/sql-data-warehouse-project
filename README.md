@@ -1,5 +1,3 @@
-# sql-data-warehouse-project
-Building a data warehouse with Sql server including ETL process,data modelling and analytics
 # SQL Data Warehouse from Scratch
 
 A hands-on data engineering project that designs and builds a modern SQL Data Warehouse from the ground up — covering ETL pipelines, the Medallion Architecture (Bronze, Silver, Gold), dimensional modeling, and data quality testing.
